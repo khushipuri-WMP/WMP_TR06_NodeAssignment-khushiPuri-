@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Khushi Puri",
+    "city": "Greater Noida"
+  },
+  {
+    "id": 2,
+    "name": "Aanchal Saxena",
+    "city": "noida"
+  },
+  {
+    "id": 3,
+    "name": "Meesha",
+    "city": "Gaziabad"
+  },
+  {
+    "id": 4,
+    "name": "jon",
+    "city": "mumbai"
+  },
+  {
+    "id": 5,
+    "name": "jon",
+    "city": "mumbai"
+  },
+  {
+    "id": 10,
+    "name": "sam",
+    "city": "Gaziabad"
+  },
+  {
+    "id": 11,
+    "name": "sam",
+    "city": "Gaziabad"
+  },
+  {
+    "id": 12,
+    "name": "jon"
+  },
+  {
+    "id": 13,
+    "name": "advert",
+    "city": "mumbai"
+  },
+  {
+    "id": 22,
+    "name": "peter",
+    "city": "Greater Noida"
+  },
+  {
+    "id": 23,
+    "name": "peter",
+    "city": "Greater Noida"
+  },
+  {
+    "id": 24,
+    "name": "ishita",
+    "city": "Noida",
+    "username": "sara03"
+  },
+  {
+    "id": 25,
+    "name": "jason",
+    "city": "Noida",
+    "username": "jason211"
+  },
+  {
+    "id": 28,
+    "name": "simran",
+    "city": "mumbai",
+    "username": "simran0078"
+  },
+  {
+    "id": 29,
+    "name": "simran",
+    "city": "mumbai",
+    "username": "simran098"
+  },
+  {
+    "id": 30,
+    "name": "simran",
+    "city": "mumbai",
+    "username": "simran0448"
+  }
+]
